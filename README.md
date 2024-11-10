@@ -5,11 +5,11 @@ DragonResume is a simple Python script that combines a resume and a cover letter
 ## Installation
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/DragonResume.git
+    git clone https://github.com/CyberSecurity010110/DragonResume.git
     cd DragonResume
     
 
-2. Install the required dependencies:
+3. Install the required dependencies:
     pip install -r requirements.txt
   
 
